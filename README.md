@@ -85,7 +85,7 @@ Full support for English and Arabic (**العربية**), including bidirectiona
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/seo-radar.git
+git clone https://github.com/Isamilelasiouty/seo-radar.git
 cd seo-radar
 
 # Install dependencies

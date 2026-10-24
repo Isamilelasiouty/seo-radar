@@ -97,7 +97,7 @@ export const Header: React.FC<HeaderProps> = ({ onToggleMobileMenu }) => {
 
             {/* GitHub Link */}
             <a
-              href="https://github.com"
+              href="https://github.com/Isamilelasiouty/seo-radar"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-lg text-slate-500 hover:text-navy-900 hover:bg-slate-100 transition-colors"
